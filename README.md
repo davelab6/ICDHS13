@@ -20,6 +20,10 @@ and leave with a clear idea of how to create your very own font,
 that you can install in your computer and share with your friends. 
 You will even learn how to earn money with font design skills!
 
+It is required to bring a personal laptop. 
+The workshop is limited to 30 persons.
+It will be on Tuesday morning, a 4 hour block with a break in the middle, 9am to 1pm.
+
 # About me
 
 Dave Crossland is dedicated to liberating typography, 
