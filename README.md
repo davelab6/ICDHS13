@@ -24,6 +24,13 @@ It is required to bring a personal laptop.
 The workshop is limited to 30 persons.
 It will be on Tuesday morning, a 4 hour block with a break in the middle, 9am to 1pm.
 
+* https://fonts.google.com/about
+* https://fontforge.org
+* http://designwithfontforge.com
+  * http://designwithfontforge.com/en-US/Planning_Your_Project.html
+  * http://designwithfontforge.com/en-US/General_UI_Introduction.html
+* https://www.fontself.com
+
 # About me
 
 Dave Crossland is dedicated to liberating typography, 
