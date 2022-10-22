@@ -17,7 +17,6 @@ He presented a perspective on libre fonts inspired by the ideas of Marshall McLu
 * https://fonts.google.com/
 * https://fonts.google.com/noto
 * https://fonts.google.com/knowledge
-* http://170.187.201.144/node/16620/ (skipped)
 * https://fonts.google.com/?vfonly=true
 * https://material.io/blog/roboto-serif
   * https://www.youtube.com/watch?v=wtBS5wRpaHg
@@ -61,8 +60,9 @@ Q&A links
 * https://es.wikipedia.org/wiki/Sobreproducci%C3%B3n#Inevitabilidad:_Karl_Marx
 * https://simoncozens.github.io/manumit/
 
-Unused web pages
+Skipped web pages
 
+* http://170.187.201.144/node/16620
 * https://twitter.com/davelab6/status/622909734149091328/photo/1
 * https://designopendata.files.wordpress.com/2014/05/themediumisthemassage_marshallmcluhan_quentinfiore.pdf
   * p18 “The 'child' was an invention of the seventeenth century; he did not exist in, say, Shakespeare's day.”
