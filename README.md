@@ -52,7 +52,8 @@ He presented a perspective on libre fonts inspired by the ideas of Marshall McLu
   * p20 “"Come into my parlor," said the computer to the specialist.”
 * https://twitter.com/nbashaw/status/1581675502279872517
 * https://twitter.com/nbashaw/status/1582254425241882624
-* https://twitter.com/Afinetheorem/status/1598081861259231232
+* https://twitter.com/Afinetheorem/status/1598081861259231232 Homework is over
+* https://twitter.com/friedberg/status/1601295731297775617 one to many is over, super abundance creates many to many individualization 
 * https://www.goodreads.com/quotes/3238058-we-live-in-capitalism-its-power-seems-inescapable-so-did “We live in capitalism. Its power seems inescapable. So did the divine right of kings. Any human power can be resisted and changed by human beings.” ― Ursula Le Guin 
 * https://www.goodreads.com/quotes/6875140-the-ultimate-hidden-truth-of-the-world-is-that-it “the ultimate, hidden truth of the world is that it is something that we make, and could just as easily make differently.” ― David Graeber
 
